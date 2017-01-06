@@ -1,6 +1,6 @@
 languageCode = "en-US"
 title = "Brandon Matthews - Software Engineer"
-baseurl = "http://brandonjmatthews.github.io/home"
+baseurl = "https://brandonjmatthews.github.io/home"
 
 # Enable comments by entering your Disqus shortname
 # disqusShortname = ""
