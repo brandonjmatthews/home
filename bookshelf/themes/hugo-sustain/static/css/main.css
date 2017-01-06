@@ -163,7 +163,8 @@ body {
   line-height: 30px;
   font-size: 18px;
 }
-.github-header-link {
+
+.github-header-icon {
   position: absolute;
   right:-1px;
   top:-1px;
